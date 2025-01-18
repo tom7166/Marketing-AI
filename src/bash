@@ -1,0 +1,11 @@
+src/
+├── components/
+│   ├── layout/
+│   ├── common/
+│   └── sections/
+├── styles/
+├── utils/
+├── security/
+├── hooks/
+├── context/
+└── assets/
